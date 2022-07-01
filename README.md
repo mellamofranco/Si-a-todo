@@ -1,2 +1,2 @@
 # Si a todo 
- representacion de grafos para analisis
+ Sistema de representacion de grafos para analisis
